@@ -16,5 +16,6 @@ bootstrapApplication(AppComponent, {
             enabled: !isDevMode(),
             registrationStrategy: 'registerWhenStable:30000'
           })
+          //comment
   ],
 });
